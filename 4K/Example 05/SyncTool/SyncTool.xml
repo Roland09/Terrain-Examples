@@ -1,0 +1,9 @@
+<WorldCreator Version="2.0">
+  <Surface HeightCenter="103.806" MinHeightScale="0" MaxHeightScale="200" MinHeight="0.2819259" MaxHeight="1.667556" Height="106.496" Width="4096" Length="4096" ResolutionX="4096" ResolutionY="4096" />
+  <Objects>
+    <Layers />
+  </Objects>
+  <Details>
+    <Layers />
+  </Details>
+</WorldCreator>
